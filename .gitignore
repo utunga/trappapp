@@ -17,6 +17,8 @@ framework/libs
 test/libs
 example
 ./test
+platforms/android/bin
+out
 test/bin
 test/assets/www/.tmp*
 tmp/**
